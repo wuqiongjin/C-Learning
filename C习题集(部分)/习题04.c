@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 //逆序打印一组数
 
 //int main()
