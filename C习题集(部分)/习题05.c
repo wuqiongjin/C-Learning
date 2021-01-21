@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 //BC78É¸Ñ¡ËØÊı
 
 //#include <math.h>
