@@ -2,7 +2,6 @@
 #include <string.h>
 
 
-
 //BC111 进制转换，10进制换为6进制
 
 //int main()
