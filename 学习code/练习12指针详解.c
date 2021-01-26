@@ -1,6 +1,5 @@
 ﻿#include <stdio.h>
 
-
 //字符指针相关概念
 
 //int main()
