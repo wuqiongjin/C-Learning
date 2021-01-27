@@ -1,7 +1,6 @@
 ﻿#include <stdio.h>
 #include <string.h>
 
-
 //习题：字符串的逆序
 
 //#include <assert.h>
