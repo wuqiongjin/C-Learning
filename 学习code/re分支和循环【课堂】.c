@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 //Œ“∫©¡À		1!+2!+3!+...+10!
 
 //int main()
