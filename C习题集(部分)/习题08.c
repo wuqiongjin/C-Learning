@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
-//BC118 ÐòÁÐÈ¥ÖØÎÊÌâ
+//BC118 åºåˆ—åŽ»é‡é—®é¢˜
 
-//±¿·½·¨¡£¡£¡£ÈÃÖØ¸´µÄÊý×ÖµÄÏÂÒ»¸öÊý×Ö¸²¸Çµ½ÖØ¸´Êý×ÖÉÏ£¬´Ó¶ø²úÉúÐÂµÄÊý×é
+
+//ç¬¨æ–¹æ³•ã€‚ã€‚ã€‚è®©é‡å¤çš„æ•°å­—çš„ä¸‹ä¸€ä¸ªæ•°å­—è¦†ç›–åˆ°é‡å¤æ•°å­—ä¸Šï¼Œä»Žè€Œäº§ç”Ÿæ–°çš„æ•°ç»„
 
 //#include <stdlib.h>
 //int cmp(const void* a, const void* b)
@@ -45,7 +46,7 @@
 //	return 0;
 //}
 
-//Å£±ÆµÄ·½·¨£¬Êý¾ÝÂ¼ÈëµÄÊ±ºò£¬Í¨¹ýÏÂ±êºÍÊý¾Ý´óÐ¡½øÐÐÂ¼Èë£¬´Ó¶ø´ïµ½È¥ÖØºÍÅÅÐòµÄ½á¹û £¨ÓÐ¾ÖÏÞÐÔ£©
+//ç‰›é€¼çš„æ–¹æ³•ï¼Œæ•°æ®å½•å…¥çš„æ—¶å€™ï¼Œé€šè¿‡ä¸‹æ ‡å’Œæ•°æ®å¤§å°è¿›è¡Œå½•å…¥ï¼Œä»Žè€Œè¾¾åˆ°åŽ»é‡å’ŒæŽ’åºçš„ç»“æžœ ï¼ˆæœ‰å±€é™æ€§ï¼‰
 
 //int main()
 //{
@@ -70,7 +71,7 @@
 //	return 0;
 //}
 
-//BC119×Ö·û´®CHN¸öÊý
+//BC119å­—ç¬¦ä¸²CHNä¸ªæ•°
 
 //int main()
 //{
@@ -94,7 +95,7 @@
 //	return 0;
 //}
 
-//BC138 µ¥ÏòÁ´±í´´½¨¼°É¾³ý½Úµã
+//BC138 å•å‘é“¾è¡¨åˆ›å»ºåŠåˆ é™¤èŠ‚ç‚¹
 
 //#include <stdlib.h>
 //struct Node
