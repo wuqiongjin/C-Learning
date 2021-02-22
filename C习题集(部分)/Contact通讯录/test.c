@@ -1,5 +1,6 @@
 #include "contact.h"
 
+
 void Menu()
 {
 	printf("********************************\n");
