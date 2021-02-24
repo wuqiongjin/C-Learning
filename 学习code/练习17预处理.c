@@ -1,5 +1,6 @@
 ﻿#include <stdio.h>
 
+
 //测试#undef的作用范围【在此语句后面的所有都有效，在此语句之前都可以使用】
 
 //#define MAX 100
